@@ -241,8 +241,16 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #64b3f4 0%, #00ecbc 100%);
+    background-image: linear-gradient(to right, #d5f464 0%, #00eccc 100%);
+    opacity: 0.8;
 }
+/*如果想去掉banner图的颜色渐变效果，请将以下的css属性注释掉或者删除掉即可*/
+@-webkit-keyframes rainbow {
+    /* 动态切换背景颜色. */
+ }
+ @keyframes rainbow {
+     /* 动态切换背景颜色. */
+ }
 
 .text-color {
     color: #0f9d58 !important;
@@ -2172,3 +2180,5 @@ body.dark header .side-nav .menu-list .m-nav-show
 body.dark .aplayer{background: #2f3742!important;}
 body.dark img, body.dark strong {
     filter: brightness(.7);
+}
+
