@@ -6,7 +6,7 @@
   <link href="https://yuanjibin.cn/atom.xml" rel="self"/>
   
   <link href="https://yuanjibin.cn/"/>
-  <updated>2021-07-05T10:14:36.364Z</updated>
+  <updated>2021-07-05T13:41:33.068Z</updated>
   <id>https://yuanjibin.cn/</id>
   
   <author>
@@ -17,24 +17,109 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>系统运维技术-PXE自动化安装系统</title>
+    <link href="https://yuanjibin.cn/posts/3f966bb0.html"/>
+    <id>https://yuanjibin.cn/posts/3f966bb0.html</id>
+    <published>2021-07-05T11:54:46.000Z</published>
+    <updated>2021-07-05T13:41:33.068Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;实验环境：&quot;&gt;&lt;a href=&quot;#实验环境：&quot; class=&quot;headerlink&quot; title=&quot;实验环境：&quot;&gt;&lt;/a&gt;实验环境：&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;一台 Win10_x64 物理主机&lt;/li&gt;
+&lt;li&gt;安装 Vmware workstation15</summary>
+        
+      
+    
+    
+    
+    <category term="系统运维" scheme="https://yuanjibin.cn/categories/%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4/"/>
+    
+    
+    <category term="系统运维" scheme="https://yuanjibin.cn/tags/%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Ansible的安装与使用</title>
-    <link href="https://yuanjibin.cn/posts/undefined.html"/>
-    <id>https://yuanjibin.cn/posts/undefined.html</id>
-    <published>2021-07-04T03:56:04.357Z</published>
-    <updated>2021-07-05T10:14:36.364Z</updated>
+    <link href="https://yuanjibin.cn/posts/a2e5a0.html"/>
+    <id>https://yuanjibin.cn/posts/a2e5a0.html</id>
+    <published>2021-07-04T13:34:33.000Z</published>
+    <updated>2021-07-05T14:40:30.336Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;欢迎访问我的&lt;a href=&quot;https://yuanjibin.cn/&quot;&gt;博客&lt;/a&gt;，有相同需求的小伙伴我们一起学习，共同进步。&lt;/p&gt;
-&lt;h2 id=&quot;Ansible安装与使用&quot;&gt;&lt;a href=&quot;#Ansible安装与使用&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;h2 id=&quot;Ansible安装与使用&quot;&gt;&lt;a href=&quot;#Ansible安装与使用&quot; class=&quot;headerlink&quot; title=&quot;Ansible安装与使用&quot;&gt;&lt;/a&gt;Ansible安装与使用&lt;/h2&gt;&lt;p&gt;  </summary>
         
       
     
     
     
+    <category term="系统运维" scheme="https://yuanjibin.cn/categories/%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4/"/>
+    
+    
+    <category term="系统运维" scheme="https://yuanjibin.cn/tags/%E7%B3%BB%E7%BB%9F%E8%BF%90%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文字背景粒子特效</title>
+    <link href="https://yuanjibin.cn/posts/4b3510a4.html"/>
+    <id>https://yuanjibin.cn/posts/4b3510a4.html</id>
+    <published>2020-03-26T16:00:00.000Z</published>
+    <updated>2021-07-05T13:29:29.761Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;一款jQuery+CSS3的文字背景粒子动画特效，一共6种粒子效果，每种文字背景的粒子效果都不同，有漂浮的有坠落的等等。 &lt;/p&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="前端篇" scheme="https://yuanjibin.cn/categories/%E5%89%8D%E7%AB%AF%E7%AF%87/"/>
+    
+    
+    <category term="jQuery+CSS3" scheme="https://yuanjibin.cn/tags/jQuery-CSS3/"/>
+    
+    <category term="粒子特效" scheme="https://yuanjibin.cn/tags/%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PicGo+GitHub 图床搭建</title>
+    <link href="https://yuanjibin.cn/posts/7a46f93c.html"/>
+    <id>https://yuanjibin.cn/posts/7a46f93c.html</id>
+    <published>2020-03-14T16:00:00.000Z</published>
+    <updated>2021-06-13T05:55:39.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;用GitHub搭建图床，在很久之前我就有了解，但由于市面上有挺多免费的图床，比如我之前一直在用的</summary>
+        
+      
+    
+    
+    
+    <category term="博客篇" scheme="https://yuanjibin.cn/categories/%E5%8D%9A%E5%AE%A2%E7%AF%87/"/>
+    
+    
+    <category term="PicGo" scheme="https://yuanjibin.cn/tags/PicGo/"/>
+    
+    <category term="GitHub图床" scheme="https://yuanjibin.cn/tags/GitHub%E5%9B%BE%E5%BA%8A/"/>
     
   </entry>
   
